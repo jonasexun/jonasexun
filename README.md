@@ -14,6 +14,7 @@
   - CSS 🎨
   - C++ 💻
   - Java ☕
+  - Python 🐍
 
 - **Herramientas y Tecnologías**:
   - **IDEs**: Visual Studio 🛠️, Arduino IDE 🤖
